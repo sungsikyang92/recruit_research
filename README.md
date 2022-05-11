@@ -1,6 +1,10 @@
+[자기소개서문항](https://github.com/sungsikyang92/recruit_research/blob/main/resume_questions.md)
+
+[기업리서치](https://github.com/sungsikyang92/recruit_research/blob/main/company_infromation.md)
+
+
+
 # recruit_research, Back-End Developer
-
-
 
 *   화해
 
